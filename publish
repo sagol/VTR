@@ -8,7 +8,7 @@ cd $DIR
 echo -e "\033[0;32mBuilding project...\033[0m"
 
 # Build the project.
-hugo -s ./
+./hugo -s ./
 
 echo -e "\033[0;32mCommitting changes...\033[0m"
 
