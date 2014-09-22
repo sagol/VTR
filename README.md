@@ -12,4 +12,3 @@
 
 
     ./deploy.sh 'fixing a typo'
-

@@ -14,12 +14,12 @@ title: "Обзор"
 
 - [Медицинская информационная система](/products/mis)
 - [Электронная регистратура](/products/er)
-- [Мониторинг беременных](/products/risar)
+- [РИСАР](/products/risar)
 - [Лабораторная информационная система](/products/lis)
 - [PACS](/products/pacs)
 - [Аптечная информационная система](/products/apteka)
-- [Служба крови](/products/sblood)
-- [Система документооборота](/products/ord)
+- [Трансфузиология](/products/sblood)
+- [Документооборот](/products/ord)
 
 ### ЛПУ
 
