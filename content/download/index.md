@@ -6,6 +6,7 @@ title: "Скачать"
 
 ## МИС
 
+
 ### Толстый клиент 
 
 - [Клиент Linuх (RPM)](/static/assets/download/MIS-3.3-55.i686.rpm)
