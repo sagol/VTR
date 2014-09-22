@@ -1,0 +1,30 @@
+{{ template "chrome/header.html" . }}
+
+  <section class="main-content container">
+    <ul class="breadcrumb">
+      <li><a href="/members/">Member Directory</a></li>
+      <li>{{ .Title }}</li>
+    </ul>
+
+    <article class="member-detail">
+      {{ if .Params.avatar }}
+        <figure class="member-summary-avatar pull-right">
+          <img src="{{ .Params.avatar }}" alt="{{ .Title }}" class="img-responsive img-circle">
+        </figure>
+      {{ end }}
+      
+      <header class="member-detail-header">
+        <h1 class="page-header member-detail-header">{{ .Title }}</h1>
+        {{ if .Description }}
+          <p class="member-detail-intro lead">{{ .Description }}</p>
+        <hr>
+        {{ end }}
+      </header>
+
+      <section class="member-detail-bio">
+        {{ .Content }}
+      </section>
+    </article>
+  </section>
+
+{{ template "chrome/footer.html" . }}

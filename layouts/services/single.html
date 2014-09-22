@@ -1,0 +1,11 @@
+{{ template "chrome/header.html" . }}
+  <div class="main-content container">
+    <ol class="breadcrumb">
+      <li><a href="/">Главная</a></li>
+      <li><a href="/about/">Услуги</a></li>
+      <li>{{ .Title }}</li>
+    </ol>
+    <h1 class="page-header">{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+{{ template "chrome/footer.html" . }}

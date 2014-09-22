@@ -1,0 +1,3 @@
+<p>
+  <a href="{{ index .Params "href" }}" class="btn {{ if isset .Params "class" }}{{ index .Params "class" }}{{ else }}btn-primary btn-lg{{ end }}">{{ index .Params "text" }}</a>
+</p>

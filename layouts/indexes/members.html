@@ -1,0 +1,17 @@
+{{ template "chrome/header.html" . }}
+
+  <section class="main-content container">
+    <h1 class="page-header">Member Directory</h1>
+    <p>
+      <strong>Interested in learning who makes up the VTR community?</strong> 
+      Below is a list of just some of our exceptionally awesome members.
+      If you're interested in becoming a member, 
+      <a href="/membership/">learn more here</a>.
+    </p>
+
+    {{ range .Data.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </section>
+
+{{ template "chrome/footer.html" }}
