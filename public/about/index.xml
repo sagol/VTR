@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Abouts on Высокотехнологичные решения </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://www.hitsl.ru/about/index.xml/</link>
+    
+    
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Брендирование</title>
+      <link>http://www.hitsl.ru/about/assets/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/assets/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Логотип&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/static/assets/logo/hitsl-logo.png&#34;&gt;PNG file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Обзор</title>
+      <link>http://www.hitsl.ru/about/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Активно развивающийся системный интегратор, предлагающий услуги по созданию, оптимизации и автоматизации
+бизнес-процессов, внедрению информационных систем, ИТ-аутсорсингу и реализации комплексных инфраструктурных проектов.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Узнать больше&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Наш &lt;a href=&#34;/about/faq/&#34;&gt;ЧаВО&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Наши &lt;a href=&#34;/about/hh/&#34;&gt;вакансии&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Часто задаваемые вопросы</title>
+      <link>http://www.hitsl.ru/about/faq/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/faq/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;ЧаВО&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Где мы находимся?&lt;/h3&gt;
+
+&lt;p&gt;Основной наш офис расположен в городе Санкт-Петербург, точный адрес можно посмотреть в &lt;a href=&#34;/contact/&#34;&gt;контактах&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1997.3167275554858!2d30.28319139999999!3d59.960069499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4696314a176dc3c9%3A0xc886641f4de95c5c!2z0J_QuNC-0L3QtdGA0YHQutCw0Y8g0YPQuy4sIDMwLCDQodCw0L3QutGCLdCf0LXRgtC10YDQsdGD0YDQsywgMTk3MTEw!5e0!3m2!1sru!2sru!4v1410729375616&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Какие технологии мы используем?&lt;/h3&gt;
+
+&lt;p&gt;Если кратко, то:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Java EE&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;AngularJS&lt;/li&gt;
+&lt;li&gt;Flask/Django&lt;/li&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;MySQL&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;li&gt;Caché&lt;/li&gt;
+&lt;li&gt;RabbitMQ&lt;/li&gt;
+&lt;li&gt;QT&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Еще вопросы?&lt;/h2&gt;
+
+&lt;p&gt;Если остались вопросы, то с радостью &lt;a href=&#34;mailto:support@hitsl.ru&#34;&gt;ответим&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Вакансии</title>
+      <link>http://www.hitsl.ru/about/hh/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/hh/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Разработчики&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Основные задачи&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Разработка и поддержка серверной части проекта на Python;&lt;/li&gt;
+&lt;li&gt;Разработка и поддержка фронтенд модуля.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;От Вас&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Опыт программирования на Python от 2-х лет;&lt;/li&gt;
+&lt;li&gt;Опыт разработки серверных многопоточных приложений;&lt;/li&gt;
+&lt;li&gt;Знание HMTL/XHTML/CSS/JavaScript;&lt;/li&gt;
+&lt;li&gt;Технический английский (чтение);&lt;/li&gt;
+&lt;li&gt;Знание SQL на высоком уровне;&lt;/li&gt;
+&lt;li&gt;Опыт работы с SQL-БД (MySQL, PostgreSQL) в реальных проектах;&lt;/li&gt;
+&lt;li&gt;Знание фреймворков Django и Flask (&lt;em&gt;будет плюсом&lt;/em&gt;);&lt;/li&gt;
+&lt;li&gt;Знание AngularJS (&lt;em&gt;будет плюсом&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;Знание MongoDB (&lt;em&gt;будет плюсом&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;География&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Санкт-Петербург&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;Аналитики&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Основные задачи&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Выявление и сбор требований из различных источников;&lt;/li&gt;
+&lt;li&gt;Систематизация требований;&lt;/li&gt;
+&lt;li&gt;Общение с заказчиком;&lt;/li&gt;
+&lt;li&gt;Анализ требований для контроля их качества;&lt;/li&gt;
+&lt;li&gt;Документирование требований в документах или специализированных системах;&lt;/li&gt;
+&lt;li&gt;Согласование требований с заинтересованными лицами;&lt;/li&gt;
+&lt;li&gt;Обработка запросов на изменение требований к системе;&lt;/li&gt;
+&lt;li&gt;Моделирование бизнес процессов;&lt;/li&gt;
+&lt;li&gt;Разработка прототипов интерфейсов системы;&lt;/li&gt;
+&lt;li&gt;Разработка модели поведения системы;&lt;/li&gt;
+&lt;li&gt;Разработка критерий приемочных испытаний функциональных требований.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;От Вас&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Имеете техническое образование;&lt;/li&gt;
+&lt;li&gt;Опыт работа аналитиком в сфере ИТ более года;&lt;/li&gt;
+&lt;li&gt;Владение инструментами моделирования бизнес-процессов;&lt;/li&gt;
+&lt;li&gt;Знание SQL на уровне разработки скриптов;&lt;/li&gt;
+&lt;li&gt;Владение инструментами проектирования БД;&lt;/li&gt;
+&lt;li&gt;Понимание минимум одного шаблона проектирования ПО;&lt;/li&gt;
+&lt;li&gt;Желательно знание хотя бы одного ЯП на уровне junior developer;&lt;/li&gt;
+&lt;li&gt;Понимание принципов ООП;&lt;/li&gt;
+&lt;li&gt;Умеете делать выводы, даже если информации недостаточно или она, напротив, избыточна;&lt;/li&gt;
+&lt;li&gt;Умение быть многоруким многоногом (&lt;em&gt;будет плюсом&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_7&#34;&gt;География&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Санкт-Петербург&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_8&#34;&gt;Консультанты&lt;/h2&gt;
+
+&lt;h3 id=&#34;toc_9&#34;&gt;Основные задачи&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Анализ бизнес-процессов заказчика;&lt;/li&gt;
+&lt;li&gt;Проведение обследований;&lt;/li&gt;
+&lt;li&gt;Разработка технического задания на проектируемую систему;&lt;/li&gt;
+&lt;li&gt;Настройка системы в соответствии с техническим заданием;&lt;/li&gt;
+&lt;li&gt;Ведение проектной документации;&lt;/li&gt;
+&lt;li&gt;Тестирование системы;&lt;/li&gt;
+&lt;li&gt;Обучение пользователей заказчика.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_10&#34;&gt;От Вас&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Знание методологии ведения проектов;&lt;/li&gt;
+&lt;li&gt;Опыт участия в проектах внедрения от 1 года (в консалтинговой компании или на стороне Клиента);&lt;/li&gt;
+&lt;li&gt;Высшее техническое/экономическое/математическое;&lt;/li&gt;
+&lt;li&gt;Коммуникабельность;&lt;/li&gt;
+&lt;li&gt;Обучаемость;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Адекватность&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;География&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Москва&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_12&#34;&gt;Тестировщики&lt;/h2&gt;
+
+&lt;p&gt;Мы ищем опытного тестировщика, которому предстоит заниматься автоматизацией тестирования веб-интерфейсов.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_13&#34;&gt;Основные задачи&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Разработка решений для автоматизированного тестирования;&lt;/li&gt;
+&lt;li&gt;Разработка и поддержка функциональных автоматических тестов;&lt;/li&gt;
+&lt;li&gt;Внедрение технологий непрерывного развертывания в процесс тестирования.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_14&#34;&gt;От Вас&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Знание Java/Python (либо уверенное знание другого языка и опыт разработки на нём);&lt;/li&gt;
+&lt;li&gt;Понимание веб-технологий;&lt;/li&gt;
+&lt;li&gt;Опыт ручного функционального тестирования;&lt;/li&gt;
+&lt;li&gt;Знание Unix;&lt;/li&gt;
+&lt;li&gt;Знание SQL (&lt;em&gt;будет плюсом&lt;/em&gt;);&lt;/li&gt;
+&lt;li&gt;Опыт профессионального использования или настройки систем TeamCity и Jenkins (&lt;em&gt;будет плюсом&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_15&#34;&gt;География&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Санкт-Петербург&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_16&#34;&gt;Еще вопросы?&lt;/h2&gt;
+
+&lt;p&gt;Если остались вопросы, то с радостью &lt;a href=&#34;mailto:hh@hitsl.ru&#34;&gt;ответим&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>История ВТР</title>
+      <link>http://www.hitsl.ru/about/history/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/history/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Основание&lt;/h2&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Сегодня&lt;/h2&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Завтра&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Миссия</title>
+      <link>http://www.hitsl.ru/about/mission/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Наша Миссия&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как мы работаем</title>
+      <link>http://www.hitsl.ru/about/space/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/space/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
