@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/products/risar/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.hitsl.ru/products/ord/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -93,17 +88,22 @@
   </url>
   
   <url>
+    <loc>http://www.hitsl.ru/products/risar/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.hitsl.ru/products/sblood/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/services/implantation/</loc>
+    <loc>http://www.hitsl.ru/services/survey/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/services/tuition/</loc>
+    <loc>http://www.hitsl.ru/services/implantation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,7 +118,7 @@
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/services/survey/</loc>
+    <loc>http://www.hitsl.ru/services/tuition/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
