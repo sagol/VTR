@@ -114,6 +114,43 @@
     </item>
     
     <item>
+      <title>История ВТР</title>
+      <link>http://www.hitsl.ru/about/history/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/history/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Основание&lt;/h2&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Сегодня&lt;/h2&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Завтра&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Миссия</title>
+      <link>http://www.hitsl.ru/about/mission/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/mission/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Наша Миссия&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как мы работаем</title>
+      <link>http://www.hitsl.ru/about/space/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.hitsl.ru/about/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Вакансии</title>
       <link>http://www.hitsl.ru/about/hh/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -253,43 +290,6 @@
 
 &lt;p&gt;Если остались вопросы, то с радостью &lt;a href=&#34;mailto:hh@hitsl.ru&#34;&gt;ответим&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>История ВТР</title>
-      <link>http://www.hitsl.ru/about/history/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.hitsl.ru/about/history/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Основание&lt;/h2&gt;
-
-&lt;h2 id=&#34;toc_1&#34;&gt;Сегодня&lt;/h2&gt;
-
-&lt;h2 id=&#34;toc_2&#34;&gt;Завтра&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Миссия</title>
-      <link>http://www.hitsl.ru/about/mission/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.hitsl.ru/about/mission/</guid>
-      <description>
-
-&lt;h2 id=&#34;toc_0&#34;&gt;Наша Миссия&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Как мы работаем</title>
-      <link>http://www.hitsl.ru/about/space/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.hitsl.ru/about/space/</guid>
-      <description></description>
     </item>
     
   </channel>
