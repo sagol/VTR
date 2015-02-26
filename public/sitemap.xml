@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>http://www.hitsl.ru/about/hh/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.hitsl.ru/about/history/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/products/apteka/</loc>
+    <loc>http://www.hitsl.ru/products/er/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,17 +58,27 @@
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/products/er/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hitsl.ru/about/hh/</loc>
+    <loc>http://www.hitsl.ru/products/apteka/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.hitsl.ru/products/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hitsl.ru/products/lis/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hitsl.ru/products/risar/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hitsl.ru/products/mis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,32 +93,7 @@
   </url>
   
   <url>
-    <loc>http://www.hitsl.ru/products/risar/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hitsl.ru/products/lis/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hitsl.ru/products/mis/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.hitsl.ru/products/sblood/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hitsl.ru/services/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.hitsl.ru/services/maintenance/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,6 +104,16 @@
   
   <url>
     <loc>http://www.hitsl.ru/services/tuition/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hitsl.ru/services/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.hitsl.ru/services/maintenance/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
